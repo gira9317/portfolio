@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function FvFooter() {
     return (
-        <footer className="w-full px-6 md:px-16 py-16 text-white">
+        <footer className="w-full py-16 text-white">
 
             <div className="flex justify-between items-end">
 
