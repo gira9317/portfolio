@@ -25,7 +25,7 @@ export default function WhoAreYouSection() {
 
                     {/* 右：説明 */}
                     <div className="flex flex-col items-start">
-                        <div className="max-w-md text-sm sm:text-base leading-relaxed text-white/70 space-y-6 py-6">
+                        <div className="max-w-md text-sm sm:text-base leading-relaxed text-white/70 space-y-2 py-6">
                             <p>
                                 映像制作とWeb開発を軸に、
                                 人の心に残る体験と、実際に使われる仕組みを設計しています。
